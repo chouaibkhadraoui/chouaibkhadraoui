@@ -32,7 +32,7 @@ SIEM setup files, Sigma/Snort rules, packet analysis, log parsing.
 ### 📝 `writeups/`
 Documented labs, CTFs, or real-world investigations I've worked on.
 
-### 🛠️ `tools-custom/`
+### 🛠️ `CyberTools/`
 Python or Bash tools I’ve built for automation or exploitation.
 
 ### 📚 `certifications-notes/`
@@ -58,6 +58,6 @@ Organized writeups by platform (TryHackMe, HTB, PicoCTF, etc.)
 ## 📬 Connect
 
 Want to collaborate, ask questions, or suggest something?  
-Open an issue or hit me up on [LinkedIn](https://linkedin.com/) / [Twitter](https://twitter.com/)!
+Open an issue or hit me up on [LinkedIn](https://www.linkedin.com/in/chouaib-khadraoui-82005814a/) 
 
 
