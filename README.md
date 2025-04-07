@@ -29,17 +29,14 @@ WiFi attacks, from deauth to Evil Twin setups using real hardware.
 ### 🔵 [blue-team-tools/](https://github.com/chouaibkhadraoui/blue-team-tools)
 SIEM setup files, Sigma/Snort rules, packet analysis, log parsing.
 
-### 📝 `writeups/` : [GitHub Pages](https://pages.github.com/)
+### 📝 [writeups/](https://medium.com/@khadraoui.chouaib)
 Documented labs, CTFs, or real-world investigations I've worked on.
 
-### 🛠️ `CyberTools/` : [GitHub Pages](https://pages.github.com/)
+### 🛠️ [CyberTools](https://github.com/chouaibkhadraoui/CyberTools)
 Python or Bash tools I’ve built for automation or exploitation.
 
 ### 📚 `certifications-notes/` : [GitHub Pages](https://pages.github.com/)
 Personal study notes for popular cybersecurity certifications.
-
-### 🧾 `cheatsheets/` : [GitHub Pages](https://pages.github.com/)
-Fast-access guides for command-line, tools, and tactics.
 
 ### 🎯 `CTFs/` : [GitHub Pages](https://pages.github.com/)
 Organized writeups by platform (TryHackMe, HTB, PicoCTF, etc.)
