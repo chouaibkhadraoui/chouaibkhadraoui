@@ -11,7 +11,7 @@ Enjoy your cybersecurity journey! 🚀
 
 ## ✍️ What's Inside
 
-### 🔍 `recon/` : [recon](https://github.com/chouaibkhadraoui/recon)
+### 🔍 [recon/](https://github.com/chouaibkhadraoui/recon)
 Custom scripts and tools for passive & active information gathering.
 
 ### 🌐 `web-exploitation/` : [GitHub Pages](https://pages.github.com/)
