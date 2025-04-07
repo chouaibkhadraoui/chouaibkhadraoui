@@ -14,19 +14,19 @@ Enjoy your cybersecurity journey! 🚀
 ### 🔍 [recon/](https://github.com/chouaibkhadraoui/recon)
 Custom scripts and tools for passive & active information gathering.
 
-### 🌐 `web-exploitation/` : [GitHub Pages](https://pages.github.com/)
+### 🌐 [web-exploitation/](https://github.com/chouaibkhadraoui/web-exploitation)
 Walkthroughs and PoCs for common web app vulnerabilities.
 
-### 🧱 `privilege-escalation/` : [GitHub Pages](https://pages.github.com/)
+### 🧱 [privilege-escalation/](https://github.com/chouaibkhadraoui/privilege-escalation)
 Checklists, annotated tool outputs, and manual privesc techniques.
 
-### 🧬 `malware-analysis/` : [GitHub Pages](https://pages.github.com/)
+### 🧬 [malware-analysis/](https://github.com/chouaibkhadraoui/malware-analysis)
 Dissection of suspicious binaries, logs from sandboxes, and RE tips.
 
-### 📡 `wireless-attacks/` : [GitHub Pages](https://pages.github.com/)
+### 📡 [wireless-attacks/](https://github.com/chouaibkhadraoui/wireless-attacks)
 WiFi attacks, from deauth to Evil Twin setups using real hardware.
 
-### 🔵 `blue-team-tools/` : [GitHub Pages](https://pages.github.com/)
+### 🔵 [blue-team-tools/](https://github.com/chouaibkhadraoui/blue-team-tools)
 SIEM setup files, Sigma/Snort rules, packet analysis, log parsing.
 
 ### 📝 `writeups/` : [GitHub Pages](https://pages.github.com/)
